@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name         = "Gorbas/MTBlockTableView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A table view that uses blocks instead of protocols."
   s.homepage     = "https://github.com/mysterioustrousers/MTBlockTableView"
   s.license      = 'BSD'
   s.author       = { "Parker Wightman" => "parkerwightman@gmail.com" }
-  s.source       = { :git => "https://github.com/Gorbas/MTBlockTableView.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/Gorbas/MTBlockTableView.git", :tag => "0.0.2" }
   s.source_files = 'MTBlockTableView/*.{h,m}'
   s.requires_arc = true
   s.platform     = :ios
